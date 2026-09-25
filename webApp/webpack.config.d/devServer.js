@@ -8,7 +8,7 @@ config.devServer = {
         rewrites: [
             {
                 from: /./,
-                to: "/404.html"
+                to: "/index.html"
             }
         ]
     }
